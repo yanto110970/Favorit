@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Favorit</string>
+    <string name="github_user">githubuser</string>
+    <string name="github_name">githubname</string>
+
+    <string name="follower_user">follower_user</string>
+    <string name="follower_name">follower_name</string>
+    <string name="following_name">following_name</string>
+    <string name="following_user">following_user</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="key_name">key_name</string>
+
+    <string name="nothing">nothing</string>
+
+    <string name="setname">Name</string>
+    <string name="setemail">Email</string>
+    <string name="setgithubuser">Github User</string>
+    <string name="settoken">Token</string>
+    <string name="is_job">Notifikasi Jam 9.00</string>
+
+    <string name="key_email">name</string>
+    <string name="key_githubuser">user</string>
+    <string name="key_token">token</string>
+    <string name="key_job">job</string>
+    <string name="setting">setting</string>
+    <string name="delete">delete</string>
+    <string name="search">search</string>
+    <string name="username">username</string>
+    <string name="userid">userid</string>
+    <string name="Ubah">Ubah</string>
+    <string name="Update">Update</string>
+    <string name="userurl">userurl</string>
+    <string name="submit">submit</string>
+    <string name="tambah">Tambah Favorit</string>
+    <string name="simpan">Simpan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">name</string>
+    <string name="company">company</string>
+    <string name="location">location</string>
+    <string name="description">description</string>
+
+</resources>
